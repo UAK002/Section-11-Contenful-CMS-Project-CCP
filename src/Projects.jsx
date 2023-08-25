@@ -1,3 +1,5 @@
+import './fetchProject';
+
 const Projects = () => {
   return <div>Projects</div>;
 };
